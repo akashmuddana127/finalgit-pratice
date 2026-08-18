@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mohan</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #111827;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      text-align: center;
+      padding: 40px 80px;
+      border: 2px solid #f59e0b;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.05);
+      box-shadow: 0 0 20px rgba(245, 158, 11, 0.5);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+
+    p {
+      margin-top: 10px;
+      font-size: 1.2rem;
+      color: #d1d5db;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Mohan</h1>
+    <p>I am creating my HTML page.</p>
+  </div>
+</body>
+</html>
